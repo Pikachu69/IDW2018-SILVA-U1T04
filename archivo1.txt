@@ -1,5 +1,7 @@
 Instituto Tecnológico de Tepic
-Eduardo Luis Silva Camacho	edlusilvaca@ittepic.edu.mx
-Infraestructura y desarrollo web
-Hector Manuel Garay Ocegueda	hemagarayoc@ittepic.edu.mx
-Ana Patricia Sánchez Jímenez	anpasanchezji@ittepic.edu.mx
+Eduardo Luis Silva Camacho
+Israel Arjona Vizcaino
+
+edlusilvaca@ittepic.edu.mx
+hemagarayoc@ittepic.edu.mx
+anpasanchezji@ittepic.edu.mx
